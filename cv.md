@@ -7,4 +7,4 @@
 * Sample code: ``ABCCBACBACBAAACACBCACACABCBC`` **[high jump code](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator)**.
 * Work experience: __freelance__
 * Higher education: __educational psychologist__ / __higher and completed courses loft school__
-* English level: __A1__
+* English level: A1
